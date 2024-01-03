@@ -26,7 +26,7 @@ github_username:  tiennguyenn
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
