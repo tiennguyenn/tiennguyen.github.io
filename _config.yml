@@ -44,6 +44,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include: ["_pages"]
+
 defaults:
   # _posts
   - scope:
