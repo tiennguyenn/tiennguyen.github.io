@@ -1,9 +1,8 @@
 ---
-title: "Fizz Bang Identity"
+title: "Govalos"
 excerpt: "A Shopify app that allows merchants to add a gift to the purchase. Customers can send gifts directly to gift recipients via Email."
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  teaser: http://placehold.it/600x400
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -2,8 +2,7 @@
 title: "WAAVE"
 excerpt: "A payment gateway processes credit and debit card payments while ensuring that transactions are compliant with industry’s regulations."
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: assets/images/unsplash-gallery-image-3-th.jpg
+  teaser: http://placehold.it/600x400
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -1,9 +1,8 @@
 ---
 title: "SoureKnowledge"
-excerpt: " A platform to help online stores get more sales by creating shopping ads from product catalog and run on comparison shopping sites.."
+excerpt: " A platform to help online stores get more sales by creating shopping ads from product catalog and run on comparison shopping sites."
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: assets/images/unsplash-gallery-image-3-th.jpg
+  teaser: http://placehold.it/600x400
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

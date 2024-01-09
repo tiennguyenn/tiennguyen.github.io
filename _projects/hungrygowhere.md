@@ -2,8 +2,7 @@
 title: "HungryGoWhere"
 excerpt: "A food and restaurant review website. Users can search and book restaurants in Singapore, Malaysia."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: http://placehold.it/600x400
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
