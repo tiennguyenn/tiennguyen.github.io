@@ -19,12 +19,10 @@ minimal_mistakes_skin: "air"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "My Name"
-subtitle: "PHP developer"
+subtitle: "Senior PHP developer"
 name: "My Name"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, I'm Tien, a passionate and experienced PHP developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "http://placehold.it/88x88"
@@ -39,15 +37,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tienn6981@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tiennguyenn.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tiennguyenn"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/"
 
 # Site Footer
 footer:
@@ -58,6 +56,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/"
 
 # Reading Files
 include:

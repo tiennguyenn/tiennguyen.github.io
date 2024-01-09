@@ -6,29 +6,32 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.
+  Hello, I'm Tien, a passionate and experienced PHP developer.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    alt: "core php expertise"
+    title: "Core PHP Expertise"
+    excerpt: "In-depth understanding of PHP syntax, semantics, variables, operators, control structures, functions, and object-oriented programming (OOP) principles."
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    alt: "database management"
+    title: "Database Management"
+    excerpt: "Proficiency in MySQL or MariaDB is essential, with knowledge of other database systems (PostgreSQL, SQLite). This includes skills in database design, querying (SQL), and data manipulation."
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    #url: "/docs/license/"
-    #btn_class: "btn--primary"
-    #btn_label: "Learn more"
+    alt: "PHP Frameworks"
+    title: "PHP Frameworks"
+    excerpt: "Deep expertise in Laravel and Symfony; familiarity with CodeIgniter and Zend Framework. Frameworks streamline development, promote code organization, and enforce best practices."
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "PHP Frameworks"
+    title: "Front-End Technologies"
+    excerpt: "Familiarity with HTML, CSS, and JavaScript is crucial for building visually appealing and interactive user interfaces, ensuring seamless integration with back-end PHP code."
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "PHP Frameworks"
+    title: "RESTful APIs"
+    excerpt: "Knowledge of building and consuming RESTful APIs for integration with other systems and services."
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "PHP Frameworks"
+    title: "CMS Experience"
+    excerpt: "Familiarity with developing WordPress plugins."
 ---
 
 {% include feature_row %}
