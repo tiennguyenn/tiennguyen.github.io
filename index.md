@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/home-page.jpg
 excerpt: >
   Hello, I'm Tien, a passionate and experienced PHP developer.
 feature_row:
