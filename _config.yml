@@ -11,7 +11,7 @@
 # Theme settings
 # theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "contrast"
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -31,7 +31,7 @@ logo: "http://placehold.it/88x88"
 author:
   name             : "My Name"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Senior **PHP** developer."
   location         : "Tan Binh, HCM"
   links:
     - label: "Email"

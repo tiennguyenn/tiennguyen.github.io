@@ -6,10 +6,8 @@ header:
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    image_alt: "gmeds"
+    text: "Senior PHP Developer"
 ---
 
 Used PHP 7.3, Symfony 4, MySQL.
