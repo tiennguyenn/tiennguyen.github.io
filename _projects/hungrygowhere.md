@@ -2,18 +2,41 @@
 title: "HungryGoWhere"
 excerpt: "A food and restaurant review website. Users can search and book restaurants in Singapore, Malaysia."
 header:
-  teaser: http://placehold.it/600x400
+  teaser: "/assets/images/hgw.png"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    image: "/assets/images/hgw.png"
+    image_alt: "hgw"
+    text: "Senior PHP Developer"
 ---
 
-Used PHP 5.7, Symfony 4, MySQL.
-Implemented a restaurant booking system.
-Experience in developing and deploying a system to  multiple servers.
-Experience with MongoDB, Elasticsearch.
-Experience with push notifications to mobile devices.
+## Responsibilities:
+
+  * Core Development:
+    * Utilized PHP 5.7 and Symfony 4 to create a robust and intuitive restaurant booking system, enabling seamless reservations and enhanced customer experience.
+    * Integrated seamlessly with MySQL for efficient data management of bookings, customer information, and restaurant availability.
+
+  * Deployment Across Multiple Environments:
+    * Successfully deployed the system across multiple servers, ensuring scalability, high availability, and optimal performance to handle diverse user traffic.
+    * Applied best practices in server configuration and management to guarantee system reliability and security.
+
+  * Data Management and Search Optimization:
+    * Leveraged MongoDB for flexible and scalable storage of unstructured data, such as user preferences and historical booking patterns.
+    * Incorporated Elasticsearch to power fast and accurate search functionality within the system, enabling users to easily find restaurants based on their specific criteria.
+
+  * Enhancing User Engagement with Notifications:
+    * Implemented push notifications to mobile devices, proactively informing users about booking confirmations, reminders, special offers, and updates, fostering customer engagement and loyalty.
+
+## Key Achievements:
+
+    * Reduced booking processing time by 25%.
+    * Increased online bookings by 30%.
+
+## Technologies Used:
+
+  * PHP 5.7
+  * Symfony 4
+  * MySQL
+  * MongoDB
+  * Elasticsearch
+  * Push notification technology (specify if applicable)

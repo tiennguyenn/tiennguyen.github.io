@@ -2,7 +2,7 @@
 title: "G-MEDS"
 excerpt: "A healthcare platform  giving electronic prescriptions and pharmacies that are able to deliver to patients."
 header:
-  teaser: http://placehold.it/600x400
+  teaser: "/assets/images/gmeds.png"
 sidebar:
   - title: "Role"
     image: "/assets/images/gmeds.png"
