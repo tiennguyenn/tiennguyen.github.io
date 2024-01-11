@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello, I'm Tien, a passionate and experienced PHP developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "http://placehold.it/88x88"
+logo: "/assets/images/logo.jpg"
 
 # Site Author
 author:

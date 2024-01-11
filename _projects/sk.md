@@ -2,11 +2,11 @@
 title: "SK"
 excerpt: " A platform to help online stores get more sales by creating shopping ads from product catalog and run on comparison shopping sites."
 header:
-  teaser: http://placehold.it/600x400
+  teaser: "/assets/images/sk.png"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    image: "/assets/images/sk.png"
+    image_alt: "sk"
     text: "Senior PHP Developer"
 ---
 
