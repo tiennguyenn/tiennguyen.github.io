@@ -14,7 +14,7 @@ sidebar:
 
   * Core Development:
     * Developed well-structured PHP 7.3 code within the Symfony 4 framework, ensuring adherence to best practices and high code quality.
-    * Built core features, including user authentication, prescription creation, database interactions, and API integration, using MySQL for efficient data management.
+    * Built core features, including user authentication, prescription creation, order management and API integration, using MySQL for efficient data management.
     * Successfully integrated with twilio to enable seamless communication features within the application.
     * Wrote comprehensive unit tests to guarantee code quality and reliability.
 

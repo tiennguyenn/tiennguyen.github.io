@@ -30,8 +30,9 @@ sidebar:
 
 ## Key Achievements:
 
-    * Reduced asset load times by 30%.
-    * Optimized database queries to improve response times by 20%.
+  * Reduced frontend latency by 25% using Webpack Encore's optimized asset bundling and minification.
+  * Improved database query performance by 20% by optimizing Doctrine annotations and database indexing, resulting in smoother user browsing and faster page load times.
+  * Developed a comprehensive REST API with over 50 well-documented endpoints, streamlining integration with external platforms.
 
 ## Technologies Used:
 

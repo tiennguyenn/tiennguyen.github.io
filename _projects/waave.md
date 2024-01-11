@@ -21,7 +21,7 @@ sidebar:
     * Optimized server configurations and resource allocation to meet application demands.
 
   * Streamlined Customer Support and Issue Resolution:
-    * Utilized Trello to efficiently track, prioritize, and resolve end-user and client tickets, ensuring timely and satisfactory solutions.
+    * Utilized Trello to efficiently track, prioritize, and resolve client tickets, ensuring timely and satisfactory solutions.
     * Demonstrated strong communication and problem-solving skills to address technical issues effectively.
 
   * Frictionless Online Payments:
@@ -29,8 +29,8 @@ sidebar:
     * Adhered to strict security protocols to protect sensitive financial data.
 
 ## Key Achievements:
-
-  * Developed a plugin that increased Magento sales by 15%.
+  * Crafted many high-performance plugins across WordPress, Magento, and Ecwid.
+  * Developed a secure payment integration system with three major providers, increasing customer confidence.
 
 ## Technologies Used:
 
@@ -41,4 +41,4 @@ sidebar:
   * WordPress
   * Amazon Web Services (EC2, RDS, S3)
   * Trello
-  * Online payment gateways (specify providers)
+  * Online payment gateways (Stripe, Clearent)

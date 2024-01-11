@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
-  Hello, I'm Tien, a passionate and experienced PHP developer.
+  Hello, I'm Tien, a passionate and experienced PHP developer with 10+ year of experience.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "core php expertise"
