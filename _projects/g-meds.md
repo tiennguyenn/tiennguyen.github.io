@@ -1,6 +1,6 @@
 ---
 title: "G-MEDS"
-excerpt: "A healthcare platform  giving electronic prescriptions and pharmacies that are able to deliver to patients."
+excerpt: "A healthcare platform facilitating electronic prescriptions and connecting patients with pharmacies capable of seamless medication delivery."
 header:
   teaser: "/assets/images/gmeds.png"
 sidebar:

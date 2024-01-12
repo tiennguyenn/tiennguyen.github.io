@@ -1,6 +1,6 @@
 ---
 title: "HungryGoWhere"
-excerpt: "A food and restaurant review website. Users can search and book restaurants in Singapore, Malaysia."
+excerpt: "A food and restaurant review website where users can search for and book restaurants in Singapore and Malaysia."
 header:
   teaser: "/assets/images/hgw.png"
 sidebar:

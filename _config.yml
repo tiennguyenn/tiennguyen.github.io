@@ -18,9 +18,9 @@ minimal_mistakes_skin: "contrast"
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "My Name"
+title: "Tien Nguyen"
 subtitle: "Senior PHP developer"
-name: "My Name"
+name: "Tien Nguyen"
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, I'm Tien, a passionate and experienced PHP developer.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,7 +29,7 @@ logo: "/assets/images/logo.png"
 
 # Site Author
 author:
-  name             : "My Name"
+  name             : "Tien Nguyen"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Senior **PHP** developer."
   location         : "Tan Binh, HCM"

@@ -1,6 +1,6 @@
 ---
 title: "GVL"
-excerpt: "A Shopify app that allows merchants to add a gift to the purchase. Customers can send gifts directly to gift recipients via Email."
+excerpt: "A Shopify app enabling merchants to include gifts with purchases. Customers have the option to send these gifts directly to recipients via email."
 header:
   teaser: http://placehold.it/600x400
 sidebar:

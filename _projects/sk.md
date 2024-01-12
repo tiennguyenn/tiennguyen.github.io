@@ -1,6 +1,6 @@
 ---
 title: "SK"
-excerpt: " A platform to help online stores get more sales by creating shopping ads from product catalog and run on comparison shopping sites."
+excerpt: "A platform designed to boost online store sales by generating shopping ads from the product catalog and running them on comparison shopping sites."
 header:
   teaser: "/assets/images/sk.png"
 sidebar:
