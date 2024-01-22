@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "PHP Frameworks"
     title: "PHP Frameworks"
-    excerpt: "Deep expertise in Laravel and Symfony, with familiarity in CodeIgniter and Zend Framework. These frameworks streamline development, promote code organization, and enforce best practices."
+    excerpt: "Deep expertise in Laravel and Symfony, with familiarity in CakePHP and CodeIgniter. These frameworks streamline development, promote code organization, and enforce best practices."
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "PHP Frameworks"
     title: "Front-End Technologies"
