@@ -22,7 +22,7 @@ sidebar:
 
   * Data Management and Search Optimization:
     * Leveraged MongoDB for flexible and scalable storage of unstructured data, such as user preferences and historical booking patterns.
-    * Incorporated Elasticsearch to power fast and accurate search functionality within the system, enabling users to easily find restaurants based on their specific criteria.
+    * Leveraged Elasticsearch to power fast and accurate search functionality within the system, enabling users to easily find restaurants based on their specific criteria.
 
   * Enhancing User Engagement with Notifications:
     * Implemented push notifications to mobile devices, proactively informing users about booking confirmations, reminders, special offers, and updates.
@@ -40,4 +40,4 @@ sidebar:
   * MySQL
   * MongoDB
   * Elasticsearch
-  * Push notification technology (specify if applicable)
+  * Push notification technology (GCM, APNs)

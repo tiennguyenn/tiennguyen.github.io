@@ -13,7 +13,7 @@ sidebar:
 ## Responsibilities:
 
   * Seamless Integrations for Enhanced Functionality:
-    * Developed custom plugins using PHP 5.7 and Laravel 5 to integrate seamlessly with Magento and WordPress, extending their capabilities and streamlining workflows.
+    * Crafted custom plugins for seamless integration with Magento and WordPress, enhancing their capabilities and optimizing workflows.
     * Ensured plugins aligned with best practices for compatibility, performance, and security.
 
   * Cloud Mastery and Infrastructure Management:
@@ -29,7 +29,7 @@ sidebar:
     * Adhered to strict security protocols to protect sensitive financial data.
 
 ## Key Achievements:
-  * Crafted many high-performance plugins across WordPress, Magento, and Ecwid.
+  * Developed numerous high-performance plugins for various e-commerce platforms, including WordPress WooCommerce, Magento and Ecwid.
   * Developed a secure payment integration system with three major providers, increasing customer confidence.
 
 ## Technologies Used:

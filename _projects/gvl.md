@@ -2,10 +2,10 @@
 title: "GVL"
 excerpt: "A Shopify app enabling merchants to include gifts with purchases. Customers have the option to send these gifts directly to recipients via email."
 header:
-  teaser: http://placehold.it/600x400
+  teaser: "/assets/images/gvl.png"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: "/assets/images/gvl.png"
     image_alt: "gvl"
     text: "Senior PHP Developer"
 ---
